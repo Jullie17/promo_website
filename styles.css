@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body, html{
-  background: url("walt_disney_pictures_bg.jpeg") no-repeat center fixed;
+  background: url("walt_disney_pictures_bg.png") no-repeat center fixed;
   background-size: cover;
   padding: 0px;
   margin: 20px;
