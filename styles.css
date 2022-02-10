@@ -1,0 +1,73 @@
+*{
+  box-sizing: border-box;
+}
+body, html{
+  background: url("walt_disney_pictures_bg.jpeg") no-repeat center fixed;
+  background-size: cover;
+  padding: 0px;
+  margin: 20px;
+}
+
+body{
+
+  background-color: #6495ED;
+  color: #fff;
+  font-family: 'Courier New', monospace;
+}
+h1{
+  font-size: 60px;
+  text-align:center;
+}
+h2{
+  font-size: 50px;
+  text-align: left;
+  margin:10px;
+  padding: 0px;
+}
+h3{
+  font-size: 40px;
+  text-align: center;
+  margin:10px;
+  padding: 0px;
+}
+p{
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px;
+  color: #000000;
+  background-color: rgb(224, 255, 255, 50);
+}
+
+p1{
+  font-size: 30px;
+  margin: 0px;
+  padding: 0px;
+  color: #snow;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+.bodyCopy{
+  font-size:20px;
+  margin-bottom: 20px;
+  padding: 10px;
+  color: snow;
+  background-color: #4169E1;
+}
+.parentDemo{
+  background-color: #4169E1;
+  text-align:center;
+}
+
+.childDemo{
+  display: inline-block;
+  background-color: #6495ED;
+  padding: 0px;
+  border: 5px solid white;
+  vertical-align: top;
+}
